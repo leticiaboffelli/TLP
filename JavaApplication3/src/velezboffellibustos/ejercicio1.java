@@ -26,6 +26,7 @@ public class ejercicio1 {
         altura= teclado.nextInt();
         area=base*altura;
         System.out.println("El area del rectangulo es " +area);
+        System.out.println("El area del rectangulo es " +area);
         
     }
     
